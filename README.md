@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Retrofit**
 
-- 👨‍💻 All of my projects are available at [github.com/versus2004](github.com/versus2004)
+- 👨‍💻 All of my projects are available at [Github](github.com/Versus04)
 
 - 💬 Ask me about **Kotlin,Jetpack Compose**
 
