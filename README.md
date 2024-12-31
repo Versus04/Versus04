@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Ktor**
+- 🔭 I’m currently working on **Retrofit And Room**
 
-- 🌱 I’m currently learning **Retrofit**
+- 🌱 I’m currently learning **Dependency Injection**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/Versus04/)
 
