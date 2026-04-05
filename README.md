@@ -3,9 +3,9 @@
 
 > Backend · Android · Systems — Building things that run fast and scale.
 
-![CS @ VIT-AP '26](https://img.shields.io/badge/CS%20%40%20VIT--AP%20'26-1F4E79?style=flat&labelColor=1F4E79&color=1F4E79&logoColor=BDD7EE)
+![India](https://img.shields.io/badge/📍%20India-1F4E79?style=flat)
 ![Open to Opportunities](https://img.shields.io/badge/Open%20to%20Opportunities-1e4620?style=flat&color=1e4620)
-![CGPA 8.94](https://img.shields.io/badge/CGPA-8.94-0b3d3a?style=flat&color=0b3d3a)
+![Certifications](https://img.shields.io/badge/AWS%20CLF--02%20·%20Azure%20AI--900-0b3d3a?style=flat&color=0b3d3a)
 
 ---
 
@@ -14,7 +14,6 @@
 - 🔭 Currently building **SkillSwap** — a peer-learning platform
 - 🌱 Deepening expertise in **Dependency Injection & Hilt**
 - ⚡ Interests in **distributed systems & concurrent programming**
-- ☁️ Certified **AWS CLF-02 · Azure AI-900**
 - 💬 Ask me about **Kotlin, Jetpack Compose, Go, Spring Boot**
 - 📫 Reach me at **shubhambind2004@gmail.com**
 - 🌐 Portfolio: [shubhambind.com](https://shubhambind.com)
