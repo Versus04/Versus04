@@ -1,29 +1,64 @@
-<h1 align="center">Hi 👋, I'm Shubham Kumar Bind</h1>
-<h3 align="center">A passionate Android developer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+# Hey there, I'm Shubham 👋
 
-- 🔭 I’m currently working on **Retrofit And Room**
+> Backend · Android · Systems — Building things that run fast and scale.
 
-- 🌱 I’m currently learning **Dependency Injection**
+![CS @ VIT-AP '26](https://img.shields.io/badge/CS%20%40%20VIT--AP%20'26-1F4E79?style=flat&labelColor=1F4E79&color=1F4E79&logoColor=BDD7EE)
+![Open to Opportunities](https://img.shields.io/badge/Open%20to%20Opportunities-1e4620?style=flat&color=1e4620)
+![CGPA 8.94](https://img.shields.io/badge/CGPA-8.94-0b3d3a?style=flat&color=0b3d3a)
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/Versus04/)
+---
 
-- 💬 Ask me about **Kotlin,Jetpack Compose**
+## 🧑‍💻 About me
 
-- 📫 How to reach me **shubhambind2004@gmail.com**
+- 🔭 Currently building **SkillSwap** — a peer-learning platform
+- 🌱 Deepening expertise in **Dependency Injection & Hilt**
+- ⚡ Interests in **distributed systems & concurrent programming**
+- ☁️ Certified **AWS CLF-02 · Azure AI-900**
+- 💬 Ask me about **Kotlin, Jetpack Compose, Go, Spring Boot**
+- 📫 Reach me at **shubhambind2004@gmail.com**
+- 🌐 Portfolio: [shubhambind.com](https://shubhambind.com)
 
-- 📄 [Know about my experiences](https://drive.google.com/file/d/16eqgoRso-c7advknqL-gs_jT47UEcto6/view?usp=sharing)
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 🚀 Projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+| Project | Description | Stack |
+|---|---|---|
+| [**SkillSwap**](https://github.com/Versus04) | Peer-to-peer skill exchange — Go REST API + Kotlin Android client (MVVM, Hilt, Proto DataStore) | Go · Kotlin · Compose · Hilt |
+| [**SentinelDB**](https://github.com/Versus04) | Concurrent KV store with lock-free reads, WAL & crash recovery | C++17 · Concurrency |
+| [**SplitShare**](https://github.com/Versus04) | Serverless expense-splitting app with real-time GraphQL subscriptions | Kotlin · AWS AppSync · DynamoDB |
+| [**Web Crawler**](https://github.com/Versus04) | Go crawler with goroutine pools + TF-IDF ranked search engine | Go · Goroutines · TF-IDF |
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Versus04&show_icons=true&locale=en&layout=compact" alt="Versus04" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Versus04&show_icons=true&locale=en" alt="Versus04" /></p>
+## 🛠 Tech Stack
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Versus04&" alt="Versus04" /></p>
+**Primary Languages**
+`Kotlin` `Go` `Java` `C++17`
+
+**Android**
+`Jetpack Compose` `MVVM` `Hilt` `Retrofit` `Room` `Proto DataStore` `Android SDK`
+
+**Backend & Cloud**
+`Spring Boot` `REST APIs` `AWS` `DynamoDB` `PostgreSQL`
+
+**Tools**
+`Git` `Linux` `IntelliJ` `Android Studio`
+
+---
+
+## 📊 GitHub Stats
+
+![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Versus04&show_icons=true&locale=en&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Versus04&show_icons=true&locale=en&layout=compact&theme=tokyonight)
+
+---
+
+## 🔗 Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-shubhambind.com-1F4E79)](https://shubhambind.com)
+[![Email](https://img.shields.io/badge/Email-shubhambind2004%40gmail.com-1e4620)](mailto:shubhambind2004@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Versus04-24292e)](https://github.com/Versus04)
+[![Instagram](https://img.shields.io/badge/Instagram-shubhamkumar20__04-C13584)](https://www.instagram.com/shubhamkumar20_04)
+    
